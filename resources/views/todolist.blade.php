@@ -93,7 +93,7 @@
 .center-screen {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: left;
     min-height: 100vh;
 }
 
